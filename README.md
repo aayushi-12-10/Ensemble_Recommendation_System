@@ -20,4 +20,12 @@ The algorithm is trained on every user's behaviour history, the list of movie an
 
 ### File structure
 
-The jupyter notebook (`RecSys.ipynb`) is the combination of all the python files in one place while each python file represents the individual components of the project.
+The jupyter notebook (`RecSys.ipynb`) is the combination of all the python files in one place while each python file represents the individual components of the project. You can either run all the cells in the juputer notebook or run the `HybridTest.py` file.
+
+### Team Members
+
+* Aayushi Padia(21bds002)
+* Aryan TN(21bds006)
+* Nupur Sangwai(21bds046)
+* Sharan Thummagunti(21bds061)
+* Vivaan Sharma(21bds070)
